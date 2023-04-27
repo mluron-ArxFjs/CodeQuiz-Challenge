@@ -18,13 +18,13 @@ WHEN the game is over
 THEN I can save my initials and my score
 
 ## Usage & Link
+[](https://mluron-arxfjs.github.io/CodeQuiz-Challenge/)
 - Created two HTML files (one to take quiz and one to view scores)
 - Added CSS elements to make the quiz's theme blue background
 - Created two JavaScript files (one containing functions to execute the quiz and one to store previous scores)
 
 ## Screenshots
--![Screenshot](./Assets/images/Code Quiz.png) </br>
--![Screenshot](./Assets/images/Code Quiz - High Scores.png)
+-![Screenshot](./Assets/images/Code Quiz.png)
 
 ## Contact me
 - [GitHub](https://github.com/mluron-ArxFjs)
