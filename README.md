@@ -24,8 +24,7 @@ THEN I can save my initials and my score
 - Created two JavaScript files (one containing functions to execute the quiz and one to store previous scores)
 
 ## Screenshots
--[Screenshot](./Assets/images/Code Quiz.png)</br>
--[Screenshot](./Assets/images/Code Quiz - High Scores.png)
+-![Screenshot](./Assets/images/Code Quiz.png)
 
 ## Contact me
 - [GitHub](https://github.com/mluron-ArxFjs)
